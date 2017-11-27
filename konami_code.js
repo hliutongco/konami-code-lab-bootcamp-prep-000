@@ -7,6 +7,7 @@ function init() {
       index++;
       if(index===code.length){
         alert("Cheat activated, you cheater")
+        index=0;
       }
     }
     else{
